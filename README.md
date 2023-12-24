@@ -14,7 +14,7 @@ Perhaps when you're very new to Django and you've been pointed in this direction
 
 # Why
 
-Because the cookiecutter template or Django is fantastic, but for my purposes I want to be able to assume that my students have several of the options chosen as specified here.
+Because the cookiecutter template for Django is fantastic, but for my purposes I want to be able to assume that my students have several of the options chosen as specified here.
 
 # Who
 
